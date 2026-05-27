@@ -8,3 +8,5 @@ elif valor >= 11 and valor <= 30 :
 else:
     print("Valor maior que 30.")
 print(f"O valor digitado foi: {valor}!")
+print("teste")
+print("teste 2")
