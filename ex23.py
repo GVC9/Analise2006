@@ -3,7 +3,6 @@
 #ou impar
 
 for i in range(5):
-    # Lê o valor digitado pelo usuário e converte para número inteiro
     numero = int(input(f"Digite o {i+1}º valor: "))
 
     # Verifica se o resto da divisão por 2 é zero
